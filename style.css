@@ -3,6 +3,7 @@ h {
 
 }
 
-h1 a {
-    size: 100px;
+a {
+    size: 200px;
+    color: darksalmon;
 }
